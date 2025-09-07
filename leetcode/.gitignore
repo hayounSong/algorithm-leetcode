@@ -1,0 +1,5 @@
+# Python venv
+.venv/
+
+# 테스트 파일
+test.py
